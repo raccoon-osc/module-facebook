@@ -1,0 +1,11 @@
+{
+    "name": "levi/module-facebook",
+    "authors": [
+        {
+            "name": "levi",
+            "email": "levi.dev.xxx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
